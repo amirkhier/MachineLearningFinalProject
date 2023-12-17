@@ -45,5 +45,3 @@ This project aims to delve into various machine learning approaches, exemplifyin
 2. Life Expectancy (WHO) (Regression): [Life Expectancy Dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 3. Chinese MNIST (NN and CNN models): [Chinese MNIST Dataset](https://www.kaggle.com/datasets/gpreda/chinese-mnist)
 
-
-Enhanced and organized the description for the Machine Learning Final Project repository. The changes offer better clarity and readability, enhancing the overall presentation of the project's objectives and details.
